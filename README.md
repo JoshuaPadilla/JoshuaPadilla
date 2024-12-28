@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🧑‍💻 I am currently a computer science student and an aspiring software engineer
+- 👥 Lets make a project together
 <!--
 **JoshuaPadilla/JoshuaPadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
